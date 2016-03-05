@@ -1,0 +1,24 @@
+.navbar-default .navbar-brand, .navbar {
+	background-color: #0074D9;
+	color: #ddd;
+}
+
+#bs-example-navbar-collapse-1 {
+	background-color: #0074D9;
+}
+
+#bs-example-navbar-collapse-1 li:not(.active) a {
+	color: #ddd;
+}
+
+#bs-example-navbar-collapse-1 li.active {
+	color: #ddd;
+}
+
+h1.heading {
+	text-align: center;
+}
+
+section.main-content {
+	background-color: #ddd;
+}
